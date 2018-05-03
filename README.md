@@ -31,3 +31,5 @@ End Class
 
 en gros sa prend l'exe sa le converti en octet et le place dans un tableau a partir de 'so sa cherhce le debut du code et sa execute
 le contenu du tableau
+
+voir comment c'est utilisé sur le site hackerfree remote crypte
